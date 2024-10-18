@@ -4,8 +4,8 @@
 Welcome to my Github 
 
 👨🏿‍💻I'm a Software Developer and all around tech nerd who enjoys creating things<br>
-🏫 Im currently studying Informatics at the Univeristy of South Africa<br>
-⚡ Fun fact: Im an huge sports fan 
+🏫 I'm currently studying Informatics at the Univeristy of South Africa<br>
+⚡ Fun fact: I'm a huge sports fan 
 
 
 🛠 Tech Stack
