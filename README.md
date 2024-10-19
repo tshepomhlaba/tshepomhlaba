@@ -1,5 +1,5 @@
 <!-- First draft of Github Bio -->
-### Hi there, Im Tshepo Mhlaba👋
+### Hi there, I'm Tshepo Mhlaba👋
 
 Welcome to my Github 
 
